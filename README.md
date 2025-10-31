@@ -18,12 +18,12 @@ This project is part of my learning journey — I wanted to understand how game 
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/yourusername/ping-pong-game.git
+   git clone https://github.com/Sharan-Kumar-707/Ping-Pong-Game.git
    ```
 2. Open the folder
 
    ```bash
-   cd ping-pong-game
+   cd Ping-Pong-Game
    ```
 3. Run the game
 
